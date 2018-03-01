@@ -1,1 +1,1 @@
-# pareto-token-lockup-contracts
+# Pareto Token Lockup Contracts

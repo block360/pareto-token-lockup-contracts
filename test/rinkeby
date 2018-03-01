@@ -1,0 +1,20 @@
+Preto Token Contract deployed over testnet:
+	https://rinkeby.etherscan.io/address/0x366f37d329c4a25acef862d31f2c3d77ec25cd96 
+
+
+Preto Team lockup 10 months:
+	Beneficiary:   0x00431934746a504d3c40c20bc8af1607eba9ab4f
+	Contract address: 0xE31B3029d11440De397C01AD0A67acD6EeffA91b
+	Preto 100 tokens released after 10 minutes lokup time: https://rinkeby.etherscan.io/address/0xe31b3029d11440de397c01ad0a67acd6eeffa91b 
+Preto Four Month Lockup:
+	Beneficiary:  0x439f2cee51f19ba158f1126ec3635587f7637718
+	Contract address: 0x160567dCb3A43dC974ecF7eA916CeEdDD7952CD6
+	Preto 100 tokens released after 10 minutes lokup time: https://rinkeby.etherscan.io/tx/0x332f9d6ba9a6bf95ba05e9a6a3ff0226367585f45993a5b192f64f1a90d770aa 
+Preto Corporate Treasury 5% released every month:
+	Beneficiary:  0x005d85fe4fcf44c95190cad3c1bbda242a62eeb2
+	Contract address: 0xDC9750B5F08C5618715b3602dC9786321fc36b0F
+	Preto 100 tokens are locked so beneficiary can withdraw 5% after every 3 minutes.
+	3 Withdrawls in 7 mintues so last transaction failed: https://rinkeby.etherscan.io/tx/0xb4a6493b2b118dddc9532335b4b202d82e3de7d0a15cfadac608f2d1fc174199 
+	Successfull Withdrwrawal after 9 minutes  of deployment: https://rinkeby.etherscan.io/tx/0x459142b135ab6f849523766ab33b44dd5885536ba7ed3436fd6ae8fb548c1734 
+
+
